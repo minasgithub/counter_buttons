@@ -1,3 +1,2 @@
 # counter_buttons
-Created with CodeSandbox
-App built with React.js
+A React.js App with counter buttons and different actions
